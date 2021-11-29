@@ -13,4 +13,7 @@ yarn add sass-loader -D
 yarn add node-sass -D
 yarn add node-sass -D
 yarn add @pmmmwh/react-refresh-webpack-plugin react-refresh -D
+yarn add typescript -D
+yarn add @babel/preset-typescript -D
+yarn add @types/react @types/react-dom -D
 ``` 
